@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **akashkanade235@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAFOhutodf0/iqKOwhuy-C0vhirjiiIvQw/view?utm_content=DAFOhutodf0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://drive.google.com/file/d/1BRNUWLamddp8CBMId1ebBs6p5Tf2K00J/view?usp=sharing)
+- 📄 Know about my experiences  Resume Link-https://drive.google.com/file/d/1BRNUWLamddp8CBMId1ebBs6p5Tf2K00J/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 
