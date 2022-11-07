@@ -12,12 +12,12 @@
 
 - 📫 How to reach me **akashkanade235@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAFOhutodf0/iqKOwhuy-C0vhirjiiIvQw/view?utm_content=DAFOhutodf0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFOhutodf0/iqKOwhuy-C0vhirjiiIvQw/view?utm_content=DAFOhutodf0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Know about my experiences [https://www.canva.com/design/DAFOhutodf0/iqKOwhuy-C0vhirjiiIvQw/view?utm_content=DAFOhutodf0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://drive.google.com/file/d/1BRNUWLamddp8CBMId1ebBs6p5Tf2K00J/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://linkedin.com/in/akash-kanade-106410246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash-kanade-106410246" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/akash-kanade-59ab8218b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash-kanade-106410246" height="30" width="40" /></a>
 <a href="https://codesandbox.com/akashkanade235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="akashkanade235" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/akashkanade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akashkanade" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@akashkanade235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@akashkanade235" height="30" width="40" /></a>
@@ -28,6 +28,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashkanade9182&show_icons=true&locale=en&layout=compact" alt="akashkanade9182" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akashkanade9182&show_icons=true&locale=en" alt="akashkanade9182" /></p>
+<p margin-top:"15">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akashkanade9182&show_icons=true&locale=en" alt="akashkanade9182" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashkanade9182&" alt="akashkanade9182" /></p>
