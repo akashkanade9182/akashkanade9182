@@ -30,4 +30,4 @@
 
 <p margin-top:"15">&nbsp;<img margin-top:"15" align="center" src="https://github-readme-stats.vercel.app/api?username=akashkanade9182&count_private=true&theme=algolia&show_icons=true&border_radius=17.2&date_format=j%20M%5B%20Y%5D" alt="akashkanade9182" /></p>
 
-<p><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=akashkanade9182&](https://github-readme-streak-stats.herokuapp.com?user=akashkanade9182&theme=radical&theme=algolia&border_radius=17.2&date_format=j%20M%5B%20Y%5D)" alt="akashkanade9182" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=akashkanade9182&theme=radical&theme=algolia&border_radius=17.2&date_format=j%20M%5B%20Y%5D" alt="akashkanade9182" /></p>
