@@ -12,6 +12,8 @@
 
 - 📫 How to reach me **akashkanade235@gmail.com**
 
+- 💬 Mob No.:-8668696097
+
 - 📄 Know about my experiences  Resume Link-https://drive.google.com/file/d/1BRNUWLamddp8CBMId1ebBs6p5Tf2K00J/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
