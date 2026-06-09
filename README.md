@@ -15,7 +15,7 @@
 - 💬 Mob No.:-8668696097
 - 📄 portfolio :- https://akashkanade9182.github.io/
 
-- 📄 Know about my experiences  Resume Link-https://drive.google.com/file/d/1BRNUWLamddp8CBMId1ebBs6p5Tf2K00J/view?usp=sharing
+- 📄 Know about my experiences  Resume Link- https://drive.google.com/file/d/115dIwD6lCAAevFXIcKeC1msog4nNl22L/view?usp=drive_link
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akash-kanade-59ab8218b) 
