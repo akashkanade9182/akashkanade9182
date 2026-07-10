@@ -95,7 +95,7 @@ alt="Full Stack Developer"
 
 | 💼 Experience | 🧠 Primary Stack |    🎮 Specialization    | 📍 Location |
 | :-----------: | :--------------: | :---------------------: | :---------: |
-|    3+ Years   | MERN and Next.js | Interactive 3D Web Apps | Pune, India |
+|    3 Years   | MERN and Next.js | Interactive 3D Web Apps | Pune, India |
 
 </div>
 
