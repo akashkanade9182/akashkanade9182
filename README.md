@@ -3,11 +3,12 @@
 <img
 width="100%"
 src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=220&section=header&text=Akash%20Kanade&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20Next.js%20%7C%20TypeScript&descAlignY=60&descSize=18"
+alt="Akash Kanade"
 />
 
 <p>
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Full+Stack+Developer+with+3%2B+Years+of+Experience;React.js+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Building+Scalable+and+Interactive+Web+Applications;Creating+3D+Web+Experiences+with+Three.js;Learning+System+Design+and+Backend+Architecture"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Full+Stack+Developer+with+2%2B+Years+of+Experience;React.js+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Building+Scalable+and+Interactive+Web+Applications;Creating+3D+Web+Experiences+with+Three.js;Learning+System+Design+and+Backend+Architecture"
     alt="Typing introduction"
   />
 </p>
@@ -58,15 +59,15 @@ src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,
 <tr>
 <td width="60%" valign="top">
 
-I am a **Full Stack Developer with more than 3 years of professional experience** building modern, scalable, responsive, and interactive web applications.
+I am a **Full Stack Developer with more than 2 years of professional experience** building modern, scalable, responsive, and interactive web applications.
 
-My primary expertise is in the **MERN stack**, including React.js, Next.js, Node.js, Express.js, and MongoDB. I also have hands-on experience building interactive 3D applications using Three.js and React Three Fiber.
+My primary expertise is in the **MERN stack**, including React.js, Next.js, Node.js, Express.js, and MongoDB. I also have hands-on experience building interactive 3D web applications using Three.js and React Three Fiber.
 
-* 🔭 Working with **React, Next.js, TypeScript, Node.js, and MongoDB**
+* 🔭 Working with **React.js, Next.js, TypeScript, Node.js, and MongoDB**
 * 🧩 Building reusable UI components and scalable REST APIs
 * 🎮 Developing interactive 3D applications and model viewers
 * ☁️ Deploying and maintaining applications using AWS EC2 and Amazon S3
-* 🔐 Implementing authentication, authorization, and role-based access
+* 🔐 Implementing authentication, authorization, and role-based access control
 * ⚡ Improving frontend performance and large 3D model loading
 * 🌱 Learning System Design, backend architecture, and cloud technologies
 * 🤖 Using ChatGPT, Gemini, Cursor, GitHub Copilot, and other AI tools
@@ -95,7 +96,7 @@ alt="Full Stack Developer"
 
 | 💼 Experience | 🧠 Primary Stack |    🎮 Specialization    | 📍 Location |
 | :-----------: | :--------------: | :---------------------: | :---------: |
-|    3 Years   | MERN and Next.js | Interactive 3D Web Apps | Pune, India |
+|    2+ Years   | MERN and Next.js | Interactive 3D Web Apps | Pune, India |
 
 </div>
 
@@ -113,9 +114,21 @@ alt="Full Stack Developer"
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Zustand-State%20Management-433E38?style=flat-square&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Responsive%20Design-Mobile%20First-2563EB?style=flat-square" />
-  <img src="https://img.shields.io/badge/Component%20Architecture-Reusable-0891B2?style=flat-square" />
+  <img
+    src="https://img.shields.io/badge/Zustand-State%20Management-433E38?style=flat-square&logo=react&logoColor=white"
+    alt="Zustand"
+  />
+
+<img
+ src="https://img.shields.io/badge/Responsive%20Design-Mobile%20First-2563EB?style=flat-square"
+ alt="Responsive Design"
+/>
+
+<img
+ src="https://img.shields.io/badge/Component%20Architecture-Reusable-0891B2?style=flat-square"
+ alt="Reusable Components"
+/>
+
 </p>
 
 ### ⚙️ Backend Development
@@ -128,10 +141,26 @@ alt="Full Stack Developer"
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/REST_API-Development-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/Socket.io-Real--time-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mongoose-ODM-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
+  <img
+    src="https://img.shields.io/badge/REST_API-Development-02569B?style=for-the-badge&logo=fastapi&logoColor=white"
+    alt="REST API"
+  />
+
+<img
+ src="https://img.shields.io/badge/JWT-Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"
+ alt="JWT Authentication"
+/>
+
+<img
+ src="https://img.shields.io/badge/Socket.io-Real--time-010101?style=for-the-badge&logo=socket.io&logoColor=white"
+ alt="Socket.io"
+/>
+
+<img
+ src="https://img.shields.io/badge/Mongoose-ODM-880000?style=for-the-badge&logo=mongoose&logoColor=white"
+ alt="Mongoose"
+/>
+
 </p>
 
 ### 🎮 3D Web Development
@@ -144,9 +173,21 @@ alt="Full Stack Developer"
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React_Three_Fiber-3D%20React-000000?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/GLTF%20%2F%20GLB-3D%20Models-2563EB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Interactive%20Viewers-WebGL-0891B2?style=for-the-badge" />
+  <img
+    src="https://img.shields.io/badge/React_Three_Fiber-3D%20React-000000?style=for-the-badge&logo=react&logoColor=61DAFB"
+    alt="React Three Fiber"
+  />
+
+<img
+ src="https://img.shields.io/badge/GLTF%20%2F%20GLB-3D%20Models-2563EB?style=for-the-badge"
+ alt="GLTF and GLB Models"
+/>
+
+<img
+ src="https://img.shields.io/badge/Interactive%20Viewers-WebGL-0891B2?style=for-the-badge"
+ alt="Interactive WebGL Viewers"
+/>
+
 </p>
 
 ### ☁️ Cloud, Deployment and Tools
@@ -159,9 +200,21 @@ alt="Full Stack Developer"
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS_EC2-Deployment-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon_S3-File%20Storage-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
-  <img src="https://img.shields.io/badge/PM2-Process%20Manager-2B037A?style=for-the-badge&logo=pm2&logoColor=white" />
+  <img
+    src="https://img.shields.io/badge/AWS_EC2-Deployment-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"
+    alt="AWS EC2"
+  />
+
+<img
+ src="https://img.shields.io/badge/Amazon_S3-File%20Storage-569A31?style=for-the-badge&logo=amazons3&logoColor=white"
+ alt="Amazon S3"
+/>
+
+<img
+ src="https://img.shields.io/badge/PM2-Process%20Manager-2B037A?style=for-the-badge&logo=pm2&logoColor=white"
+ alt="PM2"
+/>
+
 </p>
 
 ---
@@ -172,9 +225,9 @@ alt="Full Stack Developer"
 <tr>
 <td width="50%" valign="top">
 
-### Frontend
+### Frontend Development
 
-* Responsive and accessible interfaces
+* Responsive and accessible user interfaces
 * Reusable component architecture
 * Complex application state management
 * Performance optimization
@@ -186,13 +239,13 @@ alt="Full Stack Developer"
 
 <td width="50%" valign="top">
 
-### Backend
+### Backend Development
 
 * Secure and scalable REST APIs
 * Authentication and authorization
 * MongoDB schema design
 * Third-party API integrations
-* File upload and cloud storage
+* File uploads and cloud storage
 * Real-time communication
 * Production deployment and monitoring
 
@@ -222,13 +275,27 @@ alt="Full Stack Developer"
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/System_Design-Learning-2563EB?style=for-the-badge&logo=diagramsdotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/Backend_Architecture-Learning-16A34A?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img
+src="https://img.shields.io/badge/System_Design-Learning-2563EB?style=for-the-badge&logo=diagramsdotnet&logoColor=white"
+alt="System Design"
+/>
+
+<img
+src="https://img.shields.io/badge/Backend_Architecture-Learning-16A34A?style=for-the-badge&logo=nodedotjs&logoColor=white"
+alt="Backend Architecture"
+/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/AWS_Cloud-Learning-F59E0B?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Performance_Optimization-Learning-9333EA?style=for-the-badge&logo=speedtest&logoColor=white" />
+<img
+src="https://img.shields.io/badge/AWS_Cloud-Learning-F59E0B?style=for-the-badge&logo=amazonaws&logoColor=white"
+alt="AWS Cloud"
+/>
+
+<img
+src="https://img.shields.io/badge/Performance_Optimization-Learning-9333EA?style=for-the-badge&logo=speedtest&logoColor=white"
+alt="Performance Optimization"
+/>
 
 </div>
 
