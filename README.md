@@ -59,7 +59,7 @@ alt="Akash Kanade"
 <tr>
 <td width="60%" valign="top">
 
-I am a **Full Stack Developer with more than 2 years of professional experience** building modern, scalable, responsive, and interactive web applications.
+I am a **Full Stack Developer with more than 2+ years of professional experience** building modern, scalable, responsive, and interactive web applications.
 
 My primary expertise is in the **MERN stack**, including React.js, Next.js, Node.js, Express.js, and MongoDB. I also have hands-on experience building interactive 3D web applications using Three.js and React Three Fiber.
 
