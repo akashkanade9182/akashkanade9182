@@ -1,188 +1,342 @@
-<!-- Profile Header -->
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Akash Kanade</h1>
+<img
+width="100%"
+src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=220&section=header&text=Akash%20Kanade&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20Next.js%20%7C%20TypeScript&descAlignY=60&descSize=18"
+/>
 
-<h3 align="center">
-  Full Stack Developer | MERN Stack | Next.js | TypeScript
-</h3>
-
-<p align="center">
+<p>
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+with+3+Years+of+Experience;React.js+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Building+Scalable+and+Interactive+Web+Applications;Exploring+System+Design+and+Backend+Architecture"
-    alt="Typing SVG"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Full+Stack+Developer+with+3%2B+Years+of+Experience;React.js+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Building+Scalable+and+Interactive+Web+Applications;Creating+3D+Web+Experiences+with+Three.js;Learning+System+Design+and+Backend+Architecture"
+    alt="Typing introduction"
   />
 </p>
 
-<p align="center">
+<p>
   <a href="mailto:akashkanade235@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://linkedin.com/in/akash-kanade-59ab8218b">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img
+      src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
   </a>
 
   <a href="https://akashkanade9182.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img
+      src="https://img.shields.io/badge/Portfolio-View%20My%20Work-0F172A?style=for-the-badge&logo=vercel&logoColor=white"
+      alt="Portfolio"
+    />
   </a>
 
   <a href="https://drive.google.com/file/d/115dIwD6lCAAevFXIcKeC1msog4nNl22L/view?usp=drive_link">
-    <img src="https://img.shields.io/badge/Resume-View-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
+    <img
+      src="https://img.shields.io/badge/Resume-View%20Resume-2563EB?style=for-the-badge&logo=googledrive&logoColor=white"
+      alt="Resume"
+    />
   </a>
 </p>
+
+<p>
+  <img
+    src="https://komarev.com/ghpvc/?username=akashkanade9182&label=Profile%20Views&color=2563EB&style=for-the-badge"
+    alt="Profile views"
+  />
+
+<img
+ src="https://img.shields.io/github/followers/akashkanade9182?label=GitHub%20Followers&style=for-the-badge&color=0891B2&logo=github"
+ alt="GitHub followers"
+/>
+
+</p>
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a **Full Stack Developer with 3 years of professional experience** building modern, scalable, and responsive web applications.
+<table>
+<tr>
+<td width="60%" valign="top">
 
-My primary expertise is in the **MERN stack**, including React.js, Next.js, Node.js, Express.js, and MongoDB. I also have experience building interactive 3D web applications using Three.js and React Three Fiber.
+I am a **Full Stack Developer with more than 3 years of professional experience** building modern, scalable, responsive, and interactive web applications.
 
-- 🔭 Currently working on full-stack web applications using React, Next.js, Node.js, and MongoDB
-- 🧩 Experienced in building reusable frontend components and REST APIs
-- 🎮 Experienced in interactive 3D web development using Three.js and React Three Fiber
-- ☁️ Familiar with application deployment and file storage using AWS EC2 and Amazon S3
-- 🌱 Currently improving my knowledge of System Design, backend architecture, and cloud technologies
-- 🤖 Using AI development tools such as ChatGPT, Gemini, Cursor, and GitHub Copilot
-- 💬 Ask me about React.js, Next.js, TypeScript, Node.js, Express.js, MongoDB, and Three.js
-- 📍 Based in Pune, India
-- 📫 Reach me at **akashkanade235@gmail.com**
+My primary expertise is in the **MERN stack**, including React.js, Next.js, Node.js, Express.js, and MongoDB. I also have hands-on experience building interactive 3D applications using Three.js and React Three Fiber.
+
+* 🔭 Working with **React, Next.js, TypeScript, Node.js, and MongoDB**
+* 🧩 Building reusable UI components and scalable REST APIs
+* 🎮 Developing interactive 3D applications and model viewers
+* ☁️ Deploying and maintaining applications using AWS EC2 and Amazon S3
+* 🔐 Implementing authentication, authorization, and role-based access
+* ⚡ Improving frontend performance and large 3D model loading
+* 🌱 Learning System Design, backend architecture, and cloud technologies
+* 🤖 Using ChatGPT, Gemini, Cursor, GitHub Copilot, and other AI tools
+* 📍 Based in Pune, India
+* 📫 Email: **[akashkanade235@gmail.com](mailto:akashkanade235@gmail.com)**
+
+</td>
+
+<td width="40%" align="center" valign="middle">
+
+<img
+width="300"
+src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif"
+alt="Full Stack Developer"
+/>
+
+</td>
+</tr>
+</table>
+
+---
+
+## ⚡ Developer Overview
+
+<div align="center">
+
+| 💼 Experience | 🧠 Primary Stack |    🎮 Specialization    | 📍 Location |
+| :-----------: | :--------------: | :---------------------: | :---------: |
+|    3+ Years   | MERN and Next.js | Interactive 3D Web Apps | Pune, India |
+
+</div>
 
 ---
 
 ## 🛠️ Technology Stack
 
-### Frontend Development
+### 🎨 Frontend Development
 
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,html,css,tailwind,materialui&perline=9"
+    alt="Frontend technologies"
+  />
 </p>
 
-### Backend Development
-
-<p>
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Zustand-State%20Management-433E38?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Responsive%20Design-Mobile%20First-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Component%20Architecture-Reusable-0891B2?style=flat-square" />
 </p>
 
-### Databases and Authentication
+### ⚙️ Backend Development
 
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white" />
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,supabase&perline=5"
+    alt="Backend technologies"
+  />
 </p>
 
-### 3D Web Development
-
-<p>
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Three_Fiber-000000?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" />
+<p align="center">
+  <img src="https://img.shields.io/badge/REST_API-Development-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.io-Real--time-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mongoose-ODM-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
 </p>
 
-### Cloud, Deployment and Tools
+### 🎮 3D Web Development
 
-<p>
-  <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
-  <img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=threejs,blender&perline=2"
+    alt="3D technologies"
+  />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React_Three_Fiber-3D%20React-000000?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/GLTF%20%2F%20GLB-3D%20Models-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Interactive%20Viewers-WebGL-0891B2?style=for-the-badge" />
+</p>
+
+### ☁️ Cloud, Deployment and Tools
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=aws,git,github,postman,vscode,figma&perline=6"
+    alt="Cloud and development tools"
+  />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS_EC2-Deployment-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_S3-File%20Storage-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
+  <img src="https://img.shields.io/badge/PM2-Process%20Manager-2B037A?style=for-the-badge&logo=pm2&logoColor=white" />
 </p>
 
 ---
 
 ## 🚀 Professional Focus
 
-- Building responsive and reusable user interfaces
-- Developing secure and scalable REST APIs
-- Managing complex application state
-- Implementing authentication and authorization
-- Integrating third-party services and APIs
-- Creating interactive 3D model viewers
-- Optimizing large 3D models and frontend performance
-- Deploying and maintaining applications on AWS
-- Writing maintainable TypeScript and JavaScript code
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Frontend
+
+* Responsive and accessible interfaces
+* Reusable component architecture
+* Complex application state management
+* Performance optimization
+* Interactive dashboards
+* Dynamic forms and validation
+* 3D model viewers and animations
+
+</td>
+
+<td width="50%" valign="top">
+
+### Backend
+
+* Secure and scalable REST APIs
+* Authentication and authorization
+* MongoDB schema design
+* Third-party API integrations
+* File upload and cloud storage
+* Real-time communication
+* Production deployment and monitoring
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌟 What I Bring to a Project
+
+```text
+✓ Full-stack application development
+✓ Clean and reusable component design
+✓ REST API development and integration
+✓ Type-safe development with TypeScript
+✓ Interactive 3D experiences using Three.js
+✓ Authentication and role-based access control
+✓ AWS deployment and cloud file storage
+✓ Debugging, optimization, and production support
+✓ Collaboration using Git and GitHub
+```
 
 ---
 
 ## 📚 Currently Learning
 
-<p>
-  <img src="https://img.shields.io/badge/System_Design-Learning-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Backend_Architecture-Learning-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AWS_Cloud-Learning-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Performance_Optimization-Learning-purple?style=for-the-badge" />
-</p>
+<div align="center">
+
+<img src="https://img.shields.io/badge/System_Design-Learning-2563EB?style=for-the-badge&logo=diagramsdotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/Backend_Architecture-Learning-16A34A?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/AWS_Cloud-Learning-F59E0B?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Performance_Optimization-Learning-9333EA?style=for-the-badge&logo=speedtest&logoColor=white" />
+
+</div>
 
 ---
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=akashkanade9182&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-    alt="Akash's GitHub statistics"
-  />
+<div align="center">
 
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashkanade9182&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Most used languages"
-  />
-</p>
+<img
+width="49%"
+src="https://github-readme-stats.vercel.app/api?username=akashkanade9182&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true"
+alt="Akash Kanade GitHub statistics"
+/>
 
-<p align="center">
-  <img
-    width="70%"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=akashkanade9182&theme=tokyonight&hide_border=true"
-    alt="GitHub contribution streak"
-  />
-</p>
+<img
+width="49%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashkanade9182&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8"
+alt="Most used programming languages"
+/>
 
----
+</div>
 
-## 🤝 Connect With Me
+<br/>
 
-<p align="center">
-  <a href="mailto:akashkanade235@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-akashkanade235%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<div align="center">
 
-  <a href="https://linkedin.com/in/akash-kanade-59ab8218b">
-    <img src="https://img.shields.io/badge/LinkedIn-Akash_Kanade-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<img
+width="70%"
+src="https://github-readme-streak-stats.herokuapp.com/?user=akashkanade9182&theme=tokyonight&hide_border=true&border_radius=12"
+alt="GitHub contribution streak"
+/>
 
-  <a href="https://akashkanade9182.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-akashkanade9182.github.io-000000?style=for-the-badge&logo=githubpages&logoColor=white" />
-  </a>
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akashkanade9182&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img
+width="100%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=akashkanade9182&theme=tokyo-night&hide_border=true&radius=12"
+alt="GitHub contribution activity graph"
+/>
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img
+width="85%"
+src="https://github-profile-trophy.vercel.app/?username=akashkanade9182&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7"
+alt="GitHub achievements"
+/>
+
+</div>
+
+---
+
+## 📬 Contact Me
+
+<div align="center">
+
+<p>
+  Have a project, job opportunity, technical discussion, or collaboration idea?
 </p>
 
-<p align="center">
-  <strong>Thanks for visiting my profile!</strong>
-</p>
+<a href="mailto:akashkanade235@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Gmail-akashkanade235%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Send an email"
+  />
+</a>
+
+<a href="https://akashkanade9182.github.io/">
+  <img
+    src="https://img.shields.io/badge/Portfolio-akashkanade9182.github.io-111827?style=for-the-badge&logo=githubpages&logoColor=white"
+    alt="Portfolio website"
+  />
+</a>
+
+<a href="https://drive.google.com/file/d/115dIwD6lCAAevFXIcKeC1msog4nNl22L/view?usp=drive_link">
+  <img
+    src="https://img.shields.io/badge/Resume-View%20My%20Resume-2563EB?style=for-the-badge&logo=googledrive&logoColor=white"
+    alt="View resume"
+  />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 “Building reliable applications, solving real problems, and continuously improving.”
+
+<br/>
+
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1D4ED8,100:0F172A&height=120&section=footer"
+width="100%"
+alt="Footer"
+/>
+
+</div>
