@@ -28,7 +28,14 @@ alt="Akash Kanade"
     />
   </a>
 
-  <a href="https://drive.google.com/file/d/115dIwD6lCAAevFXIcKeC1msog4nNl22L/view?usp=drive_link">
+  <a href="https://www.linkedin.com/in/akash-kanade-b0ba8a421">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+
+  <a href="https://drive.google.com/file/d/1Pajy3zc7VjpKg7eSz7LYKFOX_gkAR0PY/view?usp=sharing">
     <img
       src="https://img.shields.io/badge/Resume-View%20Resume-2563EB?style=for-the-badge&logo=googledrive&logoColor=white"
       alt="Resume"
@@ -383,7 +390,14 @@ alt="GitHub achievements"
   />
 </a>
 
-<a href="https://drive.google.com/file/d/115dIwD6lCAAevFXIcKeC1msog4nNl22L/view?usp=drive_link">
+<a href="https://www.linkedin.com/in/akash-kanade-b0ba8a421">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="Connect on LinkedIn"
+  />
+</a>
+
+<a href="https://drive.google.com/file/d/1Pajy3zc7VjpKg7eSz7LYKFOX_gkAR0PY/view?usp=sharing">
   <img
     src="https://img.shields.io/badge/Resume-View%20My%20Resume-2563EB?style=for-the-badge&logo=googledrive&logoColor=white"
     alt="View resume"
