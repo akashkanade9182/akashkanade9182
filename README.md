@@ -35,7 +35,7 @@ alt="Akash Kanade"
     />
   </a>
 
-  <a href="https://drive.google.com/file/d/1Pajy3zc7VjpKg7eSz7LYKFOX_gkAR0PY/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1CRDeDzQmcajN7ce89x5Cszn4M9RyxUtA/view?usp=sharing">
     <img
       src="https://img.shields.io/badge/Resume-View%20Resume-2563EB?style=for-the-badge&logo=googledrive&logoColor=white"
       alt="Resume"
@@ -397,7 +397,7 @@ alt="GitHub achievements"
   />
 </a>
 
-<a href="https://drive.google.com/file/d/1Pajy3zc7VjpKg7eSz7LYKFOX_gkAR0PY/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1CRDeDzQmcajN7ce89x5Cszn4M9RyxUtA/view?usp=sharing">
   <img
     src="https://img.shields.io/badge/Resume-View%20My%20Resume-2563EB?style=for-the-badge&logo=googledrive&logoColor=white"
     alt="View resume"
